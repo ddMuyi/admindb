@@ -1,0 +1,98 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Muyiwa",
+      "lastName": "David",
+      "email": "daodu.muyiwa@gmail.com",
+      "age": 34,
+      "companyId": "1"
+    },
+    {
+      "id": "2",
+      "firstName": "Rachael",
+      "lastName": "Davidson",
+      "email": "rachael@gmail.com",
+      "age": 34,
+      "companyId": "4"
+    },
+    {
+      "id": "3",
+      "firstName": "Promise",
+      "lastName": "Lagartha",
+      "email": "promise@gmail.com",
+      "age": 34,
+      "companyId": "3"
+    },
+    {
+      "id": "4",
+      "firstName": "Bjorn",
+      "lastName": "Ironside",
+      "email": "bjorn@gmail.com",
+      "age": 34,
+      "companyId": "2"
+    },
+    {
+      "id": "5",
+      "firstName": "Precious",
+      "lastName": "Lokonga",
+      "email": "promise@gmail.com",
+      "age": 34,
+      "companyId": "3"
+    },
+    {
+      "id": "6",
+      "firstName": "Daodu",
+      "lastName": "Arinola",
+      "email": "dda@gmail.com",
+      "age": 16,
+      "companyId": "3"
+    },
+    {
+      "id": "7",
+      "firstName": "spencer",
+      "lastName": "Arinola",
+      "email": "dao.yahoo",
+      "age": 16,
+      "companyId": "3"
+    },
+    {
+      "id": "8",
+      "firstName": "spencer",
+      "lastName": "Arinola",
+      "email": "dao.yahoo",
+      "age": 16,
+      "companyId": "3"
+    },
+    {
+      "id": 9,
+      "firstName": "songe",
+      "lastName": "Arinola",
+      "email": "so@gmail.com",
+      "age": 16,
+      "companyId": "3"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Providence",
+      "description": "A software solution providing company"
+    },
+    {
+      "id": "2",
+      "name": "Jay Microfinance bank",
+      "description": "Providing solutions for entreprenuaral problems"
+    },
+    {
+      "id": "3",
+      "name": "OESTUDIO",
+      "description": "A branding Company"
+    },
+    {
+      "id": "4",
+      "name": "Natal Epoch",
+      "description": "A midwife comapny"
+    }
+  ]
+}
